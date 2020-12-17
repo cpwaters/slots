@@ -1,2 +1,2 @@
 # slots
-Booking system writen in C#
+Booking system written in C#
