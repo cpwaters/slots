@@ -1,2 +1,2 @@
 # slots
-Booking system written in C#
+Booking system written in React With Node
