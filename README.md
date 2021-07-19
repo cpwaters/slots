@@ -1,2 +1,2 @@
 # slots
-Booking system written in React With Node
+Booking system written in React / NodeJS / Express & MongoDB
